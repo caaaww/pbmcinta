@@ -1,16 +1,17 @@
-# pbm_aulia
+<img src="web/icons/katalog.jpeg" width="300">
+<img src="web/icons/tambah.jpeg" width="300">
+<img src="web/icons/katalog2.jpeg" width="300">
+<img src="web/icons/submit.jpeg" width="300">
 
-A new Flutter project.
+#Cara Menjalankan Project
 
-## Getting Started
+1. Clone atau buat project Flutter baru
+flutter create tugas_pbm
+cd tugas_pbm
+2. Salin semua file dari folder lib/, android/, dan pubspec.yaml
+Pastikan semua file project sudah dipindahkan ke dalam project Flutter yang baru dibuat.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Install dependencies
+flutter pub get
+4. Jalankan aplikasi
+flutter run
